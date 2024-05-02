@@ -1,7 +1,7 @@
 # 👨‍💻 ABOUT ME
-- 👨‍🎓 Undergraduate Student | Data Science at UPN "Veteran" East Java 
+- 👨‍🎓 Undergraduate Student of Data Science at UPN "Veteran" East Java 
 - 📊 Experienced in Data Cleaning, Data Exploration, Data Mining, Data Analysis, Data Visualization, and Machine Learning
-- 🔍 Data Science & Machine Learning Enthusiast
+- 🔍 Data Science & Data Analyst Enthusiast
 
 # 🔧 Tools
 <div style="display:flex;">
