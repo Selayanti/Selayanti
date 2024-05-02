@@ -3,7 +3,7 @@
 - 📊 Experienced in Data Cleaning, Data Exploration, Data Mining, Data Analysis, Data Visualization, and Machine Learning
 - 🔍 Data Science & Machine Learning Enthusiast
 
-# 🔧 Common programming languages 
+# 🔧 Tools
 <div style="display:flex;">
     <div>
         <img src="https://github.com/Selayanti/Selayanti/blob/main/logo%20program/python.png?raw=true"  width="75" height="75">
